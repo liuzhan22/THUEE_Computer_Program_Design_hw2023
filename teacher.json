@@ -1,0 +1,100 @@
+[
+    {
+        "courses": [
+            {
+                "credit": 4.0,
+                "id": "10002",
+                "name": "Physics"
+            }
+        ],
+        "id": "2022000588",
+        "name": "TeacherLiu"
+    },
+    {
+        "courses": [
+            {
+                "credit": 5.0,
+                "id": "10001",
+                "name": "Calculus"
+            }
+        ],
+        "id": "2022000589",
+        "name": "TeaSiu"
+    },
+    {
+        "courses": [
+            {
+                "credit": 2.0,
+                "id": "10003",
+                "name": "Electronic_System"
+            }
+        ],
+        "id": "2022000591",
+        "name": "TeaLee"
+    },
+    {
+        "courses": [
+            {
+                "credit": 1.0,
+                "id": "10004",
+                "name": "Electronic_System_Experiments"
+            }
+        ],
+        "id": "2022000590",
+        "name": "TeaSun"
+    },
+    {
+        "courses": [
+            {
+                "credit": 3.0,
+                "id": "10005",
+                "name": "Computer_Program_Design"
+            }
+        ],
+        "id": "2022000592",
+        "name": "TeaHuang"
+    },
+    {
+        "courses": [
+            {
+                "credit": 3.0,
+                "id": "10006",
+                "name": "Modern_Chinese_History"
+            }
+        ],
+        "id": "2022000593",
+        "name": "TeaShu"
+    },
+    {
+        "courses": [
+            {
+                "credit": 1.0,
+                "id": "10007",
+                "name": "PE"
+            },
+            {
+                "credit": 1.0,
+                "id": "10009",
+                "name": "PE_2"
+            },
+            {
+                "credit": 1.0,
+                "id": "10010",
+                "name": "PE_3"
+            }
+        ],
+        "id": "2022000594",
+        "name": "TeaWang"
+    },
+    {
+        "courses": [
+            {
+                "credit": 2.0,
+                "id": "10008",
+                "name": "Western_String_Art"
+            }
+        ],
+        "id": "2022000595",
+        "name": "TeaLiu"
+    }
+]

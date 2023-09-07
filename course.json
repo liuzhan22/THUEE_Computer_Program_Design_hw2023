@@ -1,0 +1,207 @@
+[
+    {
+        "credit": 4.0,
+        "id": "10002",
+        "name": "Physics",
+        "students": [
+            {
+                "grade": 87.0,
+                "id": "2022010589",
+                "name": "LiuSiu"
+            },
+            {
+                "grade": 74.0,
+                "id": "2022010590",
+                "name": "JinSiu"
+            },
+            {
+                "grade": 95.0,
+                "id": "2022010588",
+                "name": "LiuZhan"
+            }
+        ],
+        "teacher": "TeacherLiu"
+    },
+    {
+        "credit": 5.0,
+        "id": "10001",
+        "name": "Calculus",
+        "students": [
+            {
+                "grade": 84.0,
+                "id": "2022010589",
+                "name": "LiuSiu"
+            },
+            {
+                "grade": 76.0,
+                "id": "2022010590",
+                "name": "JinSiu"
+            },
+            {
+                "grade": 99.0,
+                "id": "2022010588",
+                "name": "LiuZhan"
+            }
+        ],
+        "teacher": "TeaSiu"
+    },
+    {
+        "credit": 2.0,
+        "id": "10003",
+        "name": "Electronic_System",
+        "students": [
+            {
+                "grade": 76.0,
+                "id": "2022010589",
+                "name": "LiuSiu"
+            },
+            {
+                "grade": 69.0,
+                "id": "2022010590",
+                "name": "JinSiu"
+            },
+            {
+                "grade": 90.0,
+                "id": "2022010588",
+                "name": "LiuZhan"
+            }
+        ],
+        "teacher": "TeaLee"
+    },
+    {
+        "credit": 1.0,
+        "id": "10004",
+        "name": "Electronic_System_Experiments",
+        "students": [
+            {
+                "grade": 87.0,
+                "id": "2022010588",
+                "name": "LiuZhan"
+            },
+            {
+                "grade": 65.0,
+                "id": "2022010589",
+                "name": "LiuSiu"
+            },
+            {
+                "grade": 81.0,
+                "id": "2022010590",
+                "name": "JinSiu"
+            }
+        ],
+        "teacher": "TeaSun"
+    },
+    {
+        "credit": 3.0,
+        "id": "10005",
+        "name": "Computer_Program_Design",
+        "students": [
+            {
+                "grade": 90.0,
+                "id": "2022010588",
+                "name": "LiuZhan"
+            },
+            {
+                "grade": 84.0,
+                "id": "2022010589",
+                "name": "LiuSiu"
+            },
+            {
+                "grade": 76.0,
+                "id": "2022010590",
+                "name": "JinSiu"
+            }
+        ],
+        "teacher": "TeaHuang"
+    },
+    {
+        "credit": 3.0,
+        "id": "10006",
+        "name": "Modern_Chinese_History",
+        "students": [
+            {
+                "grade": 88.0,
+                "id": "2022010588",
+                "name": "LiuZhan"
+            },
+            {
+                "grade": 84.0,
+                "id": "2022010589",
+                "name": "LiuSiu"
+            },
+            {
+                "grade": 75.0,
+                "id": "2022010590",
+                "name": "JinSiu"
+            }
+        ],
+        "teacher": "TeaShu"
+    },
+    {
+        "credit": 1.0,
+        "id": "10007",
+        "name": "PE",
+        "students": [
+            {
+                "grade": 85.0,
+                "id": "2022010588",
+                "name": "LiuZhan"
+            },
+            {
+                "grade": 79.0,
+                "id": "2022010589",
+                "name": "LiuSiu"
+            },
+            {
+                "grade": 98.0,
+                "id": "2022010590",
+                "name": "JinSiu"
+            }
+        ],
+        "teacher": "TeaWang"
+    },
+    {
+        "credit": 2.0,
+        "id": "10008",
+        "name": "Western_String_Art",
+        "students": [
+            {
+                "grade": 91.0,
+                "id": "2022010589",
+                "name": "LiuSiu"
+            },
+            {
+                "grade": 98.0,
+                "id": "2022010588",
+                "name": "LiuZhan"
+            },
+            {
+                "grade": 94.0,
+                "id": "2022010590",
+                "name": "JinSiu"
+            }
+        ],
+        "teacher": "TeaLiu"
+    },
+    {
+        "credit": 1.0,
+        "id": "10009",
+        "name": "PE_2",
+        "students": [],
+        "teacher": "TeaWang"
+    },
+    {
+        "credit": 1.0,
+        "id": "10010",
+        "name": "PE_3",
+        "students": [],
+        "teacher": "TeaWang"
+    },
+    {
+        "credit": 0.0,
+        "id": "",
+        "name": "",
+        "students": [],
+        "teacher": ""
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "courses": [
+            {
+                "GPA": 3.6,
+                "credit": 1.0,
+                "grade": 87.0,
+                "id": "10004",
+                "name": "Electronic_System_Experiments"
+            },
+            {
+                "GPA": 4.0,
+                "credit": 3.0,
+                "grade": 90.0,
+                "id": "10005",
+                "name": "Computer_Program_Design"
+            },
+            {
+                "GPA": 3.6,
+                "credit": 3.0,
+                "grade": 88.0,
+                "id": "10006",
+                "name": "Modern_Chinese_History"
+            },
+            {
+                "GPA": 3.3,
+                "credit": 1.0,
+                "grade": 85.0,
+                "id": "10007",
+                "name": "PE"
+            },
+            {
+                "GPA": 4.0,
+                "credit": 2.0,
+                "grade": 98.0,
+                "id": "10008",
+                "name": "Western_String_Art"
+            },
+            {
+                "GPA": 4.0,
+                "credit": 2.0,
+                "grade": 90.0,
+                "id": "10003",
+                "name": "Electronic_System"
+            },
+            {
+                "GPA": 4.0,
+                "credit": 5.0,
+                "grade": 99.0,
+                "id": "10001",
+                "name": "Calculus"
+            },
+            {
+                "GPA": 4.0,
+                "credit": 4.0,
+                "grade": 95.0,
+                "id": "10002",
+                "name": "Physics"
+            }
+        ],
+        "id": "2022010588",
+        "name": "LiuZhan"
+    },
+    {
+        "courses": [
+            {
+                "GPA": 3.3,
+                "credit": 5.0,
+                "grade": 84.0,
+                "id": "10001",
+                "name": "Calculus"
+            },
+            {
+                "GPA": 3.6,
+                "credit": 4.0,
+                "grade": 87.0,
+                "id": "10002",
+                "name": "Physics"
+            },
+            {
+                "GPA": 2.6,
+                "credit": 2.0,
+                "grade": 76.0,
+                "id": "10003",
+                "name": "Electronic_System"
+            },
+            {
+                "GPA": 1.6,
+                "credit": 1.0,
+                "grade": 65.0,
+                "id": "10004",
+                "name": "Electronic_System_Experiments"
+            },
+            {
+                "GPA": 3.3,
+                "credit": 3.0,
+                "grade": 84.0,
+                "id": "10005",
+                "name": "Computer_Program_Design"
+            },
+            {
+                "GPA": 3.3,
+                "credit": 3.0,
+                "grade": 84.0,
+                "id": "10006",
+                "name": "Modern_Chinese_History"
+            },
+            {
+                "GPA": 3.0,
+                "credit": 1.0,
+                "grade": 79.0,
+                "id": "10007",
+                "name": "PE"
+            },
+            {
+                "GPA": 4.0,
+                "credit": 2.0,
+                "grade": 91.0,
+                "id": "10008",
+                "name": "Western_String_Art"
+            }
+        ],
+        "id": "2022010589",
+        "name": "LiuSiu"
+    },
+    {
+        "courses": [
+            {
+                "GPA": 2.6,
+                "credit": 5.0,
+                "grade": 76.0,
+                "id": "10001",
+                "name": "Calculus"
+            },
+            {
+                "GPA": 2.3,
+                "credit": 4.0,
+                "grade": 74.0,
+                "id": "10002",
+                "name": "Physics"
+            },
+            {
+                "GPA": 2.0,
+                "credit": 2.0,
+                "grade": 69.0,
+                "id": "10003",
+                "name": "Electronic_System"
+            },
+            {
+                "GPA": 3.0,
+                "credit": 1.0,
+                "grade": 81.0,
+                "id": "10004",
+                "name": "Electronic_System_Experiments"
+            },
+            {
+                "GPA": 2.6,
+                "credit": 3.0,
+                "grade": 76.0,
+                "id": "10005",
+                "name": "Computer_Program_Design"
+            },
+            {
+                "GPA": 2.6,
+                "credit": 3.0,
+                "grade": 75.0,
+                "id": "10006",
+                "name": "Modern_Chinese_History"
+            },
+            {
+                "GPA": 4.0,
+                "credit": 1.0,
+                "grade": 98.0,
+                "id": "10007",
+                "name": "PE"
+            },
+            {
+                "GPA": 4.0,
+                "credit": 2.0,
+                "grade": 94.0,
+                "id": "10008",
+                "name": "Western_String_Art"
+            }
+        ],
+        "id": "2022010590",
+        "name": "JinSiu"
+    }
+]
